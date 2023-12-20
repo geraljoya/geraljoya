@@ -6,8 +6,8 @@
 
 | ⚡️ | 🚀 |
 |-----------|-----------|
-|Passionate about UX/UI design, multimedia, and frontend development, I bring over 3 years of experience in shaping software interfaces and creating captivating user experiences for enterprise-level projects.| Design leadership ~ User Interface ~ Interaction design ~ User Experience ~ Frontend programming ~ Design system ~ Wireframing, prototyping ~ Concept and minimalism ~ Web design ~ 2d animation |
-| `📚 Learning` `🌐 Conscious technology` `✈️ Travel` `🌍 Cultures` `🧠 Psychology` `⚽ Sport` `🎨 Art` `🎵 Music` | Creativity ~ Decision making ~ Analytical thinking ~ Problem-solving ~ Proactivity ~ Organization ~ Communication ~ Teamwork |
+|Passionate about UX/UI design, multimedia, and frontend development, I bring over 3 years of experience in shaping software interfaces and creating captivating user experiences for enterprise-level projects.| `Design leadership` `User Interface` `Interaction design` `User Experience` `Frontend programming` `Design system` `Wireframing, prototyping` `Concept and minimalism` `Web design` `2d animation` |
+| `📚 Learning` `🌐 Conscious technology` `✈️ Travel` `🌍 Cultures` `🧠 Psychology` `⚽ Sport` `🎨 Art` `🎵 Music` | `Creativity` `Decision making` `Analytical thinking` `Problem-solving` `Proactivity` `Organization` `Communication` `Teamwork` |
 
 > 🎨 Toolkit:
 
@@ -26,10 +26,10 @@
 
 > 🗺️ Languages:
 
-![Spanish](https://img.shields.io/badge/🇪🇸-Native-FFC300)
-![English](https://img.shields.io/badge/🇺🇸-Professional_Working-FFC300)
-![Korean & Portuguese](https://img.shields.io/badge/🇰🇷&🇧🇷-Elementary-FFC300)
-![Sign Languages](https://img.shields.io/badge/✌🏻-Elementary-FFC300)
+![Spanish](https://img.shields.io/badge/🇪🇸-Native-white)
+![English](https://img.shields.io/badge/🇺🇸-Professional_Working-white)
+![Korean & Portuguese](https://img.shields.io/badge/🇰🇷&🇧🇷-Elementary-white)
+![Sign Languages](https://img.shields.io/badge/✌🏻-Elementary-white)
 
 
 
